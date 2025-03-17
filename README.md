@@ -1,6 +1,6 @@
 # MyTaskMate
 
-![MyTaskMate Logo]([https://via.placeholder.com/150?text=MyTaskMat](https://github.com/KANHAIYA-VASHU/MyTaskMate/blob/main/logo.png))
+![MyTaskMate Logo](https://github.com/KANHAIYA-VASHU/MyTaskMate/blob/main/logo.png)
 
 ## 🚀 Overview
 
